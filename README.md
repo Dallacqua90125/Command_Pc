@@ -1,6 +1,6 @@
 # Subir o ambiente ReactJS
 ## Instale o node
-Para subir o ambiente ReachJS, instale o [NodeJSe o npm](https://nodejs.org/en)
+Para subir o ambiente ReachJS, instale o [NodeJS e o npm](https://nodejs.org/en)
 ````bash
 node -v
 npm -v
